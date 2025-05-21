@@ -1,0 +1,29 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (web)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Questionnaires.www/bin/Debug/net9.0/Questionnaires.www.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Questionnaires.www",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "debugWithChrome",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "https://localhost:5001"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        }
+    ]
+}
