@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Questionnaires.sql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b61398e98649cbf07ac2e4a90a90500af08d043")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bc3bfc01635d514d1997c4a9f179196e2522592")]
 [assembly: System.Reflection.AssemblyProductAttribute("Questionnaires.sql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Questionnaires.sql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

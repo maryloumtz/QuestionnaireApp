@@ -22,3 +22,4 @@ C:\Users\marti\Documents\MaryLou\Questionnaires.sql\obj\Debug\net9.0\Questionnai
 C:\Users\marti\Documents\MaryLou\Questionnaires.sql\obj\Debug\net9.0\refint\Questionnaires.sql.dll
 C:\Users\marti\Documents\MaryLou\Questionnaires.sql\obj\Debug\net9.0\Questionnaires.sql.pdb
 C:\Users\marti\Documents\MaryLou\Questionnaires.sql\obj\Debug\net9.0\ref\Questionnaires.sql.dll
+C:\Users\marti\Documents\MaryLou\Questionnaires.sql\obj\Debug\net9.0\Questionnaires.sql.sourcelink.json

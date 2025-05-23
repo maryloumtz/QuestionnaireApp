@@ -269,3 +269,4 @@ C:\Users\marti\Documents\MaryLou\Questionnaires.www\obj\Debug\net9.0\ref\Questio
 C:\Users\marti\Documents\MaryLou\Questionnaires.www\bin\Debug\net9.0\MySqlConnector.dll
 C:\Users\marti\Documents\MaryLou\Questionnaires.www\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\marti\Documents\MaryLou\Questionnaires.www\obj\Debug\net9.0\compressed\56jlaiislu-k57hdin2p7.gz
+C:\Users\marti\Documents\MaryLou\Questionnaires.www\obj\Debug\net9.0\Questionnaires.www.sourcelink.json
