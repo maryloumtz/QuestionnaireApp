@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Questionnaires.www")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bc3bfc01635d514d1997c4a9f179196e2522592")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205951ff3a0713c7145f4997cbffb3133409f55f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Questionnaires.www")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Questionnaires.www")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
